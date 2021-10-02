@@ -16,10 +16,6 @@ const stories = [
         name : "Mahmudul Islam",
         src: "https://links.papareact.com/zof",
         profile:"https://links.papareact.com/l4v",
-    },{
-        name : "Mahmudul Islam",
-        src: "https://links.papareact.com/zof",
-        profile:"https://links.papareact.com/l4v",
     }
     
 ];
@@ -35,7 +31,7 @@ function Stories() {
                 profile ={story.profile} 
                 />
             ))}
-
+        <h1>test</h1>
             
         </div>
     );
